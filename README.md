@@ -6,7 +6,7 @@
 
 ---
 
-# História do Jogo
+## História do Jogo
 
 <p align="justify">Em uma vila isolada próxima a uma antiga masmorra, estranhos acontecimentos começaram a assustar os moradores. Criaturas passaram a surgir durante a noite, armadilhas misteriosas apareceram nos corredores subterrâneos e rumores indicam que um poderoso Boss habita as profundezas da masmorra.</p>
 
@@ -16,9 +16,9 @@
 
 ---
 
-# Como Jogar
+## Como Jogar
 
-## Objetivo
+### Objetivo
 
 <p align="justify">Explore a vila e os andares da masmorra, resolva os desafios, utilize armas e elimine monstros até derrotar o Boss Final.</p>
 
@@ -26,7 +26,7 @@ O jogador possui 3 vidas. Ao perder todas elas, o jogo termina.
 
 ---
 
-# Controles
+### Controles
 
 | Tecla | Ação                           |
 | ----- | ------------------------------ |
@@ -39,25 +39,25 @@ O jogador possui 3 vidas. Ao perder todas elas, o jogo termina.
 
 ---
 
-# Armas
+#### Armas
 
 Durante o jogo, o jogador pode escolher uma das seguintes armas:
 
-## Espada
+##### Espada
 
 Ataca uma área de 3x2 células à frente do jogador.
 
-## Arco e Flecha
+##### Arco e Flecha
 
 Ataca 4 células consecutivas em linha reta.
 
-## Cajado
+##### Cajado
 
 Ataca todas as 8 células adjacentes ao jogador.
 
 ---
 
-# Significado dos Símbolos
+## Significado dos Símbolos
 
 | Símbolo | Significado                   |
 | ------- | ----------------------------- |
@@ -80,7 +80,7 @@ Ataca todas as 8 células adjacentes ao jogador.
 
 ---
 
-# Mecânicas do Jogo
+## Mecânicas do Jogo
 
 * O jogador possui 3 vidas.
 * Ao tocar em monstros ou espinhos, perde uma vida.
@@ -92,13 +92,13 @@ Ataca todas as 8 células adjacentes ao jogador.
 
 ---
 
-# Estrutura do Jogo
+## Estrutura do Jogo
 
-## Vila
+### Vila
 
 Área inicial onde o jogador escolhe sua arma através da interação com o NPC.
 
-## 1º Andar da Masmorra
+### 1º Andar da Masmorra
 
 Tutorial das mecânicas básicas:
 
@@ -107,7 +107,7 @@ Tutorial das mecânicas básicas:
 * abertura de portas;
 * destruição de caixas.
 
-## 2º Andar da Masmorra
+### 2º Andar da Masmorra
 
 Introduz:
 
@@ -115,7 +115,7 @@ Introduz:
 * botões;
 * monstros do tipo X.
 
-## 3º Andar da Masmorra
+### 3º Andar da Masmorra
 
 Desafio final contendo:
 
@@ -125,7 +125,7 @@ Desafio final contendo:
 
 ---
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * Linguagem C
 * Structs
@@ -136,7 +136,7 @@ Desafio final contendo:
 
 ---
 
-# Declaração sobre Uso de IA Generativa
+## Declaração sobre Uso de IA Generativa
 
 A IA foi utilizada principalmente para:
 
@@ -145,7 +145,7 @@ A IA foi utilizada principalmente para:
 
 ---
 
-# Compilação e Execução
+## Compilação e Execução
 
 Exemplo utilizando GCC:
 
@@ -156,7 +156,7 @@ gcc dungeon_crawler.c -o main
 
 ---
 
-# Considerações Finais
+## Considerações Finais
 
 <p align="justify">O Dungeon Crawler foi desenvolvido como projeto acadêmico na disciplina Algoritmo e Codificação de Sistemas com o objetivo de aplicar conceitos fundamentais de programação em C através da criação de um jogo completo em console.</p>
 
