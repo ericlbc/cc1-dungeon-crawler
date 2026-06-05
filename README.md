@@ -12,7 +12,7 @@
 
 <p align="justify">Você é um aventureiro enviado para explorar o local, enfrentar os monstros e descobrir a origem do mal que ameaça a região.</p>
 
-<p align="justify">Sua missão é atravessar os três andares da masmorra, superar os desafios de cada fase e derrotar o Boss Final para restaurar a paz na vila.
+<p align="justify">Sua missão é atravessar os três andares da masmorra, superar os desafios de cada fase e derrotar o Boss Final para restaurar a paz na vila.</p>
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## Objetivo
 
-<p align="justify">Explore a vila e os andares da masmorra, resolva os desafios, utilize armas e elimine monstros até derrotar o Boss Final.
+<p align="justify">Explore a vila e os andares da masmorra, resolva os desafios, utilize armas e elimine monstros até derrotar o Boss Final.</p>
 
 O jogador possui 3 vidas. Ao perder todas elas, o jogo termina.
 
@@ -158,6 +158,6 @@ gcc dungeon_crawler.c -o main
 
 # Considerações Finais
 
-Dungeon Crawler foi desenvolvido como projeto acadêmico com o objetivo de aplicar conceitos fundamentais de programação em C através da criação de um jogo completo em console ASCII.
+<p align="justify">O Dungeon Crawler foi desenvolvido como projeto acadêmico na disciplina Algoritmo e Codificação de Sistemas com o objetivo de aplicar conceitos fundamentais de programação em C através da criação de um jogo completo em console.</p>
 
 Obrigado por jogar!
