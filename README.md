@@ -2,7 +2,7 @@
 
 ## Desenvolvedor
 
-* Eric Luis Barroso Cavalcante
+Eric Luis Barroso Cavalcante
 
 ---
 
