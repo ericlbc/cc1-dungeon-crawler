@@ -39,19 +39,19 @@ O jogador possui 3 vidas. Ao perder todas elas, o jogo termina.
 
 ---
 
-#### *Armas*
+#### Armas
 
 Durante o jogo, o jogador pode escolher uma das seguintes armas:
 
-#### Espada
+#### *Espada*
 
 Ataca uma área de 3x2 células à frente do jogador.
 
-#### Arco e Flecha
+#### *Arco e Flecha*
 
 Ataca 4 células consecutivas em linha reta.
 
-#### Cajado
+#### *Cajado*
 
 Ataca todas as 8 células adjacentes ao jogador.
 
@@ -138,7 +138,7 @@ Desafio final contendo:
 
 ## Declaração sobre Uso de IA Generativa
 
-A IA foi utilizada principalmente para:
+A IA foi utilizada para:
 
 * explicações sobre ponteiros, structs e funções;
 * apoio na documentação do projeto, especialmente na elaboração do tutorial do jogo e deste README.
