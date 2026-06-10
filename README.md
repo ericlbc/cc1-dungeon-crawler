@@ -141,7 +141,7 @@ Desafio final contendo:
 A IA foi utilizada para:
 
 * explicações sobre ponteiros, structs e funções;
-* apoio na documentação do projeto, especialmente na elaboração do tutorial do jogo e deste README.
+* apoio na documentação do projeto, especialmente na elaboração do tutorial do jogo, da tela de vitória e deste README.
 
 ---
 
